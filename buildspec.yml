@@ -1,0 +1,15 @@
+version: 0.1
+phases:
+  pre_build:
+    commands:
+      - echo "Test"
+  build:
+    commands:
+      - echo "Test"
+artifacts:
+  files:
+    - demo-1/**/*
+    - demo-2/**/*
+    - demo-2b/**/*
+    - demo-3/**/*
+    - demo-4/**/*
