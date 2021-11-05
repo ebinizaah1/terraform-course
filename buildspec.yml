@@ -13,3 +13,4 @@ artifacts:
     - demo-2b/**/*
     - demo-3/**/*
     - demo-4/**/*
+    - appspec.yml
